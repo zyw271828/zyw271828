@@ -47,6 +47,8 @@
     src="https://img.shields.io/badge/Firefox_Developer_Edition-0060DF.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 <img alt="GNOME"
     src="https://img.shields.io/badge/GNOME-4A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white" />
+<img alt="GnuPG"
+    src="https://img.shields.io/badge/GnuPG-0093DD.svg?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" />
 <img alt="IPFS"
     src="https://img.shields.io/badge/IPFS-65C2CB.svg?style=for-the-badge&logo=ipfs&logoColor=white" />
 <img alt="Ingress"
@@ -59,6 +61,8 @@
     src="https://img.shields.io/badge/MuseScore-1A70B8.svg?style=for-the-badge&logo=musescore&logoColor=white" />
 <img alt="Reason Studios"
     src="https://img.shields.io/badge/Reason_Studios-FFFFFF.svg?style=for-the-badge&logo=reason-studios&logoColor=black" />
+<img alt="Telegram"
+    src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" />
 <img alt="Tor"
     src="https://img.shields.io/badge/Tor-7E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />
 <img alt="Vim"
