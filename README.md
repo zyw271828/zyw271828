@@ -64,8 +64,8 @@
     src="https://img.shields.io/badge/MuseScore-1A70B8.svg?style=for-the-badge&logo=musescore&logoColor=white" />
 <img alt="ProtonMail"
     src="https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=protonmail&logoColor=white" />
-<img alt="Reason Studios"
-    src="https://img.shields.io/badge/Reason_Studios-FFFFFF.svg?style=for-the-badge&logo=reason-studios&logoColor=black" />
+<img alt="Reason"
+    src="https://img.shields.io/badge/Reason-FFFFFF.svg?style=for-the-badge&logo=reason-studios&logoColor=black" />
 <img alt="Telegram"
     src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" />
 <img alt="Tor"
