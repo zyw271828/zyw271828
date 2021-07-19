@@ -14,8 +14,6 @@
     src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="LaTeX"
     src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-<img alt="MATLAB"
-    src="https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
 <img alt="MariaDB"
     src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img alt="Python"
