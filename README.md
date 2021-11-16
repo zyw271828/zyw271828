@@ -95,3 +95,5 @@
     src="https://img.shields.io/badge/Wear_OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white" />
 <img alt="XPS"
     src="https://img.shields.io/badge/XPS-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
+<img alt="YubiKey"
+    src="https://img.shields.io/badge/YubiKey-84BD00.svg?style=for-the-badge&logo=yubico&logoColor=white" />
