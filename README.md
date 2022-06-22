@@ -31,8 +31,8 @@
     src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="Flutter"
     src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-<img alt="Spring"
-    src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img alt="Spring Boot"
+    src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
 
 <img alt="Affinity Designer"
     src="https://img.shields.io/badge/Affinity_Desginer-1B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />
