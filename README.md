@@ -62,10 +62,16 @@
     src="https://img.shields.io/badge/Minecraft-62B47A.svg?style=for-the-badge&logo=minecraft&logoColor=white" />
 <img alt="MuseScore"
     src="https://img.shields.io/badge/MuseScore-1A70B8.svg?style=for-the-badge&logo=musescore&logoColor=white" />
+<img alt="Notion"
+    src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+<img alt="OBS Studio"
+    src="https://img.shields.io/badge/OBS_Studio-302E31.svg?style=for-the-badge&logo=obs-studio&logoColor=white" />
 <img alt="ProtonMail"
     src="https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=protonmail&logoColor=white" />
 <img alt="Reason"
     src="https://img.shields.io/badge/Reason-FFFFFF.svg?style=for-the-badge&logo=reason-studios&logoColor=black" />
+<img alt="Steam"
+    src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
 <img alt="Telegram"
     src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" />
 <img alt="Tor"
