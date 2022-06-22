@@ -38,6 +38,8 @@
     src="https://img.shields.io/badge/Affinity_Desginer-1B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />
 <img alt="Affinity Photo"
     src="https://img.shields.io/badge/Affinity_Photo-7E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" />
+<img alt="Docker"
+    src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Feedly"
     src="https://img.shields.io/badge/Feedly-2BB24C.svg?style=for-the-badge&logo=feedly&logoColor=white" />
 <img alt="Firefox Developer Edition"
