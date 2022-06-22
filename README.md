@@ -93,6 +93,8 @@
     src="https://img.shields.io/badge/Kindle-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
 <img alt="LineageOS"
     src="https://img.shields.io/badge/LineageOS-167C80?style=for-the-badge&logo=lineageos&logoColor=white" />
+<img alt="Logitech"
+    src="https://img.shields.io/badge/Logitech-00B8FC?style=for-the-badge&logo=logitech&logoColor=white" />
 <img alt="OpenWrt"
     src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" />
 <img alt="Pixel"
