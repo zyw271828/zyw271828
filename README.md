@@ -11,7 +11,7 @@
 <img alt="Go"
     src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 <img alt="Java"
-    src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+    src="https://img.shields.io/badge/Java-FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black" />
 <img alt="LaTeX"
     src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 <img alt="MariaDB"
